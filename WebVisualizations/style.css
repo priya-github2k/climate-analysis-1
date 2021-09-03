@@ -1,6 +1,7 @@
 /* Body */
 	body{
 	    background-color:whitesmoke;
+		background-image: url(./images/bbb.png);
 	}
 	/* Navbar */
 	
@@ -53,8 +54,7 @@
      font-family: Georgia, 'Times New Roman', Times, serif;
      font-weight: bolder; 
 	 padding-top: 25px;
-    }   
-
+    }     
 /* Title Class  */
     .title{
      color: #0BADA6;  
